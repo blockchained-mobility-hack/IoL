@@ -1,4 +1,4 @@
-# Smart Luggage :left_luggage:
+# Smart Luggage
 
 :telephone_receiver: +49 173 3189966  
 
