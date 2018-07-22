@@ -11,6 +11,7 @@
 
 ---
 # Solution ![image](https://raw.githubusercontent.com/blockchained-mobility-hack/Smart-Luggage/master/docs/Architecture2.jpg)
+.
 
 ---
 # Solution
