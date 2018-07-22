@@ -1,6 +1,5 @@
 # Smart Luggage
 
-:telephone_receiver: +49 173 3189966  
 
 ## Platform
 ![IOTA](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Iota_logo.png/320px-Iota_logo.png)
