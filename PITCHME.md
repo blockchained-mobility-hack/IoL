@@ -21,7 +21,7 @@ Team members
 
 ---
 ## Mob App IOTA (Frond End)
-
+![image](https://raw.githubusercontent.com/blockchained-mobility-hack/Smart-Luggage/master/docs/App-Mockup.png)
 ---
 ## Infrastructure 
 
