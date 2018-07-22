@@ -5,7 +5,7 @@ Team members
 
 ---
 # Motivation
-![Logo](http://spark.apache.org/docs/latest/img/cluster-overview.png)
+![Logo](Smart-Luggage/docs/OriginalStory.png)
 
 
 - Cost
