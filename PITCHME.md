@@ -1,30 +1,35 @@
-# Team "Smart Luggage"
+# Smart Luggage
 ## ... will change your travel experience
 
-- Stefan Oblinger 
-- Sofiane Ouldhammou
-- Martin Raadik
+- Stefan Oblinger, Freelancer
+- Sofiane Ouldhammou, Amadeus
+- Martin Raadik, Samsung
 
 ---
-# Motivation
+# Travel experience today and tomorrow
 ![image](https://raw.githubusercontent.com/blockchained-mobility-hack/Smart-Luggage/master/docs/OriginalStory.png)
-
-
-- Cost
-- 
-
 
 ---
 # Scenarios
 
+
+
 ---
 # Solution
 
+Smart Luggage is able to
+- communicate ... with Humans and Services
+- decide ... autonomously
+- pay ... to reach it's goal
+
 ---
-## Mob App IOTA (Frond End)
+## Mobile Application Mob App IOTA (Frond End)
 ![image](https://raw.githubusercontent.com/blockchained-mobility-hack/Smart-Luggage/master/docs/App-Mockup.png)
 ---
 ## Infrastructure 
+
+
+
 
 ---
 
