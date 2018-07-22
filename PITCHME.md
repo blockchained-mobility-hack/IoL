@@ -25,8 +25,8 @@ Team members
 
 ---
 
-# Simulator and Demo
+# Demo
 
 ---
-
+# 
 ---
