@@ -2,6 +2,10 @@
 
 Team members
 
+Stefan Oblinger 
+Sofiane Ouldhammou
+Martin Raadik
+
 
 ---
 # Motivation
