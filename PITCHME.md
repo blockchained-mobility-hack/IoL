@@ -2,9 +2,9 @@
 
 Team members
 
-Stefan Oblinger 
-Sofiane Ouldhammou
-Martin Raadik
+## Stefan Oblinger 
+## Sofiane Ouldhammou
+## Martin Raadik
 
 
 ---
