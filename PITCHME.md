@@ -23,7 +23,7 @@
 - pay ... to reach it's goal
 
 ---
-## Mobile Application Mob App IOTA (Frond End)
+## Mobile Application Mockup
 ![image](https://raw.githubusercontent.com/blockchained-mobility-hack/Smart-Luggage/master/docs/App-Mockup.png)
 ---
 ## Infrastructure 
