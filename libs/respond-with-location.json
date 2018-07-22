@@ -1,0 +1,108 @@
+[
+    {
+        "id": "7992de73.25e",
+        "type": "tab",
+        "label": "Answer on Location Request",
+        "disabled": true,
+        "info": ""
+    },
+    {
+        "id": "b0d0d98a.311158",
+        "type": "mamPublish",
+        "z": "7992de73.25e",
+        "iotaNode": "http://iotanode.party:14265",
+        "x": 550,
+        "y": 260,
+        "wires": [
+            [
+                "eba912fa.54cd3"
+            ]
+        ]
+    },
+    {
+        "id": "1659bd9b.a68aa2",
+        "type": "ui_text",
+        "z": "7992de73.25e",
+        "group": "e6ae2972.dcb0b8",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Luggage Location",
+        "format": "{{msg.payload}}",
+        "layout": "row-center",
+        "x": 570,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "eba912fa.54cd3",
+        "type": "ui_text",
+        "z": "7992de73.25e",
+        "group": "e6ae2972.dcb0b8",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "MAM Root Address",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "x": 790,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "43d40360.fed3bc",
+        "type": "mamFetch",
+        "z": "7992de73.25e",
+        "iotaNode": "http://node04.nodeblie.de:14265/",
+        "root": "EIJVGVYZXEYGMG9PUFVPTSMHICLHYWOEHWUTOGPCXWEHIOSRP9WUTCQGEBZLFXFUTEWUMTUAQLCEOLQPV",
+        "x": 140,
+        "y": 220,
+        "wires": [
+            [
+                "868a54a0.f0a448"
+            ]
+        ]
+    },
+    {
+        "id": "868a54a0.f0a448",
+        "type": "trigger",
+        "z": "7992de73.25e",
+        "op1": "1",
+        "op2": "{\"location\":[48.137955,11.571696]}",
+        "op1type": "str",
+        "op2type": "json",
+        "duration": "0",
+        "extend": false,
+        "units": "ms",
+        "reset": "",
+        "bytopic": "all",
+        "name": "Location",
+        "x": 340,
+        "y": 220,
+        "wires": [
+            [
+                "1659bd9b.a68aa2",
+                "b0d0d98a.311158"
+            ]
+        ]
+    },
+    {
+        "id": "e6ae2972.dcb0b8",
+        "type": "ui_group",
+        "z": "",
+        "name": "Default",
+        "tab": "95843e95.7babe",
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "95843e95.7babe",
+        "type": "ui_tab",
+        "z": "",
+        "name": "Home",
+        "icon": "dashboard"
+    }
+]

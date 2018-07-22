@@ -1,0 +1,92 @@
+[
+    {
+        "id": "dd4d6ca8.b2d51",
+        "type": "tab",
+        "label": "Publish Luggage Location",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "d82a09aa.c32c78",
+        "type": "inject",
+        "z": "dd4d6ca8.b2d51",
+        "name": "Location",
+        "topic": "",
+        "payload": "{\"location\":[48.137955,11.571696]}",
+        "payloadType": "json",
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "x": 180,
+        "y": 220,
+        "wires": [
+            [
+                "591ddd7d.aed034",
+                "13b04702.339a89"
+            ]
+        ]
+    },
+    {
+        "id": "13b04702.339a89",
+        "type": "ui_text",
+        "z": "dd4d6ca8.b2d51",
+        "group": "e6ae2972.dcb0b8",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "Luggage Location",
+        "format": "{{msg.payload}}",
+        "layout": "row-center",
+        "x": 450,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "591ddd7d.aed034",
+        "type": "mamPublish",
+        "z": "dd4d6ca8.b2d51",
+        "iotaNode": "http://iotanode.party:14265",
+        "x": 430,
+        "y": 260,
+        "wires": [
+            [
+                "dd29105d.baa19"
+            ]
+        ]
+    },
+    {
+        "id": "dd29105d.baa19",
+        "type": "ui_text",
+        "z": "dd4d6ca8.b2d51",
+        "group": "e6ae2972.dcb0b8",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "name": "",
+        "label": "MAM Root Address",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "x": 710,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "e6ae2972.dcb0b8",
+        "type": "ui_group",
+        "z": "",
+        "name": "Default",
+        "tab": "95843e95.7babe",
+        "disp": true,
+        "width": "6",
+        "collapse": false
+    },
+    {
+        "id": "95843e95.7babe",
+        "type": "ui_tab",
+        "z": "",
+        "name": "Home",
+        "icon": "dashboard"
+    }
+]
