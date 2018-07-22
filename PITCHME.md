@@ -6,7 +6,7 @@
 - Martin Raadik, Samsung
 
 ---
-# Travel experience today and tomorrow
+# Vision
 ![image](https://raw.githubusercontent.com/blockchained-mobility-hack/Smart-Luggage/master/docs/OriginalStory.png)
 
 ---
