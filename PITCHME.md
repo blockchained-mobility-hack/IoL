@@ -17,7 +17,7 @@
 ---
 # Solution
 
-Smart Luggage is able to
+## Smart Luggage is able to
 - communicate ... with Humans and Services
 - decide ... autonomously
 - pay ... to reach it's goal
