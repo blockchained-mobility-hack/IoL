@@ -9,8 +9,7 @@
 # Vision
 ![image](https://raw.githubusercontent.com/blockchained-mobility-hack/Smart-Luggage/master/docs/OriginalStory.png)
 
----?image=https://raw.githubusercontent.com/blockchained-mobility-hack/Smart-Luggage/master/docs/Architecture2.jpg&size=contain
-# Solution
+---?image=https://raw.githubusercontent.com/blockchained-mobility-hack/Smart-Luggage/master/docs/Architecture.jpg&size=contain
 
 ---
 # Solution
