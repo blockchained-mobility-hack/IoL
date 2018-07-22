@@ -10,9 +10,8 @@
 ![image](https://raw.githubusercontent.com/blockchained-mobility-hack/Smart-Luggage/master/docs/OriginalStory.png)
 
 ---
-# Scenarios
-
-
+# Solution
+![image](https://raw.githubusercontent.com/blockchained-mobility-hack/Smart-Luggage/master/docs/Architecture.jpg)
 
 ---
 # Solution
