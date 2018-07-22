@@ -1,11 +1,9 @@
-# Smart Luggage
-
-Team members
+# Team "Smart Luggage"
+## ... will change your travel experience
 
 - Stefan Oblinger 
 - Sofiane Ouldhammou
 - Martin Raadik
-
 
 ---
 # Motivation
@@ -22,7 +20,6 @@ Team members
 ---
 # Solution
 
-
 ---
 ## Mob App IOTA (Frond End)
 ![image](https://raw.githubusercontent.com/blockchained-mobility-hack/Smart-Luggage/master/docs/App-Mockup.png)
@@ -32,7 +29,3 @@ Team members
 ---
 
 # Demo
-
----
-# 
----
