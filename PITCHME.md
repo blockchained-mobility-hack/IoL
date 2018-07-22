@@ -5,7 +5,7 @@ Team members
 
 ---
 # Motivation
-![Image-Absolute](https://github.com/blockchained-mobility-hack/Smart-Luggage/blob/master/docs/OriginalStory.jpeg)
+![Image](https://github.com/blockchained-mobility-hack/Smart-Luggage/blob/master/docs/OriginalStory.jpeg)
 - Cost
 - 
 
