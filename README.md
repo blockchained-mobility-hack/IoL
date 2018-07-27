@@ -1,5 +1,11 @@
 # Smart Luggage
 
+We make your luggage to travel on it's own.
+
+## Hackers
+Stefan Oblinger
+Sofiane Ouldhammou
+Martin Raadik
 
 ## Platform
 ![IOTA](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Iota_logo.png/320px-Iota_logo.png)
